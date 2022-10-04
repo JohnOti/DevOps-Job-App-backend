@@ -1,52 +1,122 @@
 {
-  "toys": [
+  "jobs":[
     {
       "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+    "companySite": "#",
+    "company": "Photosnap",
+    "logo": "companyLogo/photosnap.svg",
+    "position": "Senior Frontend Developer",
+    "postedAt": "1d ago",
+    "contract": "Full Time",
+    "location": "United State",
+    "desc": "Designing algorithms and flowcharts to create new software programs and systems"
     },
     {
       "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+    "companySite": "#",
+    "company": "Manage",
+    "logo": "companyLogo/manage.svg",
+    "position": "Fullstack Developer",
+    "postedAt": "1d ago",
+    "contract": "Part Time",
+    "location": "United Kingdom",
+    "desc": "Producing efficient and elegant code based on requirements. Testing and deploying programs and applications."
     },
     {
       "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+    "companySite": "#",
+    "company": "Account",
+    "logo": "companyLogo/account.svg",
+    "position": "Junior Frontend Developer",
+    "postedAt": "2d ago",
+    "contract": "Part Time",
+    "location": "Japan",
+    "desc":"Compiling and assessing user feedback to improve software performance"
     },
     {
       "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+    "companySite": "#",
+    "company": "MyHome",
+    "logo": "companyLogo/myhome.svg",
+    "position": "Desktop Support Manager",
+    "postedAt": "5d ago",
+    "contract": "Contract",
+    "location": "Germany",
+    "desc": "The primary function of this role is to be responsible for understanding the business and how to apply/augment the IT application architecture to plan"
     },
     {
       "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+    "companySite": "#",
+    "company": "Loop Studios",
+    "logo": "companyLogo/loop-studios.svg",
+    "position": "Remote DevOps Engineer",
+    "postedAt": "1w ago",
+    "contract": "Part Time",
+    "location": "Remote",
+    "desc": "Revisit the development process to fix bugs or address client or consumer concerns"
+
     },
     {
       "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+    "companySite": "#",
+    "company": "FaceIt",
+    "logo": "companyLogo/faceit.svg",
+    "position": "Senior Application Engineer",
+    "postedAt": "2w ago",
+    "contract": "Full Time",
+    "location": "United State",
+    "desc": "Create various diagrams, flowcharts and models that illustrate the type of code needed for programmers"
+
     },
     {
       "id": 7,
-      "name": "Hamm!!!!",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+    "companySite": "#",
+    "company": "Shortly",
+    "logo": "companyLogo/shortly.svg",
+    "position": "Technical Lead Engineer",
+    "postedAt": "2w ago",
+    "contract": "Full Time",
+    "location": "United Kingdom",
+    "desc": "Work with developers to design algorithms and flowcharts."
+
     },
     {
       "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+    "companySite": "#",
+    "company": "Insure",
+    "logo": "companyLogo/insure.svg",
+    "position": "App and Website Designer",
+    "postedAt": "2w ago",
+    "contract": "Freelance",
+    "location": "World Wide",
+    "desc": "Our company is seeking to hire a skilled software developer to help with the development of our current projects"
+
+
+    },
+    {
+      "id": 9,
+    "companySite": "#",
+    "company": "Eyecam Co.",
+    "logo": "companyLogo/eyecam-co.svg",
+    "position": "IOS Engineer",
+    "postedAt": "3w ago",
+    "contract": "Full Time",
+    "location": "United State",
+    "desc": "Modifying software to fix errors, adapt it to new hardware, improve its performance, or upgrade interfaces."
+
+    },
+    {
+      "id": 10,
+    "companySite": "#",
+    "company": "The Air Filter Company",
+    "logo": "companyLogo/the-air-filter-company.svg",
+    "position": "Front-end Dev",
+    "postedAt": "1mo ago",
+    "contract": "Part Time",
+    "location": "Worldwide",
+    "des": "Preparing reports on programming project specifications, activities, or status."
+
     }
+    
   ]
 }
